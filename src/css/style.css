@@ -41,6 +41,7 @@
 
   .news-list-item h3 {
       margin: .8em 0;
+      opacity: .4;
   }
 
   .news-list-item h5 {
